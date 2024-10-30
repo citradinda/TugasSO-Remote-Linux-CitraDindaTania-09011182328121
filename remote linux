@@ -1,0 +1,7 @@
+setelah menginstall ubuntu kita mesin virtualbox baru kedaftar ini dan mengklik tombol baru saya akan menyebut nya ubuntu 40.04 gambar ISO yang baru saja selesai di unduh
+kemudian kita lanjutkan apa yang akan dilakukan membuka jendela yang berfungsi cukup kecil tapi kita bisa membuatnya lebih besar dengan 200 apakah itu terlihat lebih baik tidak
+berikutnya mencoba mengintall server ubuntu,
+mari kita liat opsi disini akan memilih bahasa ingris atau bahasa apapun
+kemudian setelah itu masuk kejarigan penerusan port lanjutan yang akan kita lakukan adalah menambakan aturan penerusan port baru dari port 40 untuk protokol tcp ke port 40 di port tamu jadi port host 40 ke tamu dari host port 40 ke port 40 yang berarti mesin tamu mesin virtual itu akan mendengarkan pada port 40 dan kita akan mengunakan port 40 dijendala terminal pada mesin waktu lokal.jadi mari kita simpan aturan itu
+mesin virtual klik disini dan alih alih panah hijau besar, dan anda mengklik kotak tarik turun ini
+
